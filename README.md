@@ -2,7 +2,7 @@
 
 This repository provides the official PyTorch implementation of the research paper:
 
- **Token Level Contrastive Learning with Modality Aware Prompting for Multimodal Intent Recognition** (**Accepted by [AAAI2024](https://aaai.org/Conferences/AAAI-24/)**). 
+ [Token Level Contrastive Learning with Modality Aware Prompting for Multimodal Intent Recognition](https://arxiv.org/abs/2312.14667) (**Accepted by [AAAI2024](https://aaai.org/Conferences/AAAI-24/)**). 
 
 ## 1. Introduction
 
@@ -54,7 +54,22 @@ The details of MAP module:
 
 ![Experimental_Results](Figs/Experimental_Results.jpg)
 
-## 6. Acknowledgments
+## 6. Citation
+
+If you are insterested in this work, and want to use the codes or results in this repository, please **star** this repository and **cite** by:
+
+```
+@misc{zhou2023tokenlevel,
+      title={Token-Level Contrastive Learning with Modality-Aware Prompting for Multimodal Intent Recognition}, 
+      author={Qianrui Zhou and Hua Xu and Hao Li and Hanlei Zhang and Xiaohan Zhang and Yifan Wang and Kai Gao},
+      year={2023},
+      eprint={2312.14667},
+      archivePrefix={arXiv},
+      primaryClass={cs.MM}
+}
+```
+
+## 7. Acknowledgments
 
 Some of the codes in this repo are adapted from [MIntRec](https://github.com/thuiar/MIntRec/tree/main), and we are greatly thankful.
 
