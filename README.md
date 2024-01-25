@@ -24,6 +24,13 @@ pip install -r requirements.txt
 
 ## 3. Usage
 
+The data can be downloaded through the following links:
+
+```
+https://drive.google.com/file/d/16f1SOamp_hRuqRqH37eophnSQr1Dl2_w/view?usp=sharing # MIntRec
+https://drive.google.com/file/d/1Pn-Tqok36goVdJtuxzx4fsEP0aVjeKRb/view?usp=sharing # MELD
+```
+
 You can evaluate the performance of our proposed TCL-MAP on [MIntRec](https://dl.acm.org/doi/pdf/10.1145/3503161.3547906) and [MELD-DA](https://aclanthology.org/2020.acl-main.402.pdf) by using the following commands:
 
 - MIntRec
